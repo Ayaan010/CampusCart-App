@@ -1,0 +1,5 @@
+{
+    "enable-android-embedding-v2": true,
+    "enable-web": true,
+    "verbose-logging": true
+} 
